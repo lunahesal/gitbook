@@ -10,3 +10,4 @@
   - [第二节：编译 Gitbook 为静态页面](./github/build.md)
   - [第三节：托管到 github pages 网站服务](./github/deploy.md)
   - [第四节：部署脚本](./github/script.md)
+  - [第五节：常见错误](./github/error.md)
